@@ -51,7 +51,6 @@
 <fanart></fanart>
 <info>
 
-
 [COLOR deeppink]|[/COLOR] - DIVIRTA-SE COM MUITA RISADA - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -66,7 +65,6 @@
 <fanart></fanart>
 <info>
 
-
 [COLOR deeppink]|[/COLOR] - VIAJE PELA HISTORIA - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -80,7 +78,6 @@
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
-
 
 [COLOR deeppink]|[/COLOR] - LINDAS HISTORIAS E CONTOS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -102,4 +99,11 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>DRAMA</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/fabiokj/DRAMA/master/DRAMA</externallink>
+<fanart></fanart>
+<info>
 
